@@ -10,9 +10,9 @@
 
 
 ### Team Members
-- Team Lead: [Akshaya H] - [College]
-- Member 2: [Adharsh E Nair] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Akshaya H] - [ICCSEM injakundu]
+- Member 2: [Adharsh E Nair] - [ICCSEM injakundu]
+
 
 ### Project Description
 [The product verifies whether a site is authentic or fake copy]
